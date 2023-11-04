@@ -1,4 +1,4 @@
-# BookFinder-CS50P-Final-Project
+  # BookFinder
     #### Video Demo:  <https://youtu.be/EVpPzOVMqfU>
     #### Description:
     This is my final project for CS50P. It is a Windows app that uses Google Books API

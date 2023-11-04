@@ -1,0 +1,6 @@
+requests
+sys
+pillow
+json
+tkinter
+io
